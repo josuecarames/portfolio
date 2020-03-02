@@ -1,3 +1,7 @@
 .home {
     background-color: red;
 }
+
+#container-fluid {
+    padding: 3% 15%;
+}
