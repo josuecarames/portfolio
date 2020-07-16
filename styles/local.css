@@ -1,10 +1,27 @@
-.home {
-    background-color: #eeeeee;
+.background-body {
+    background-color: #232536;
+}
+
+.nav-g-style {
+    padding-top: 10px;
+    background-color: #232536;
+}
+
+.hr-separator {
+    border: 1px solid #A6986C;
     margin: 0;
 }
 
-#container-fluid {
-    padding: 3% 15%;
+footer {
+    padding: 1rem;
+    text-align: center;
+    font-size: small;
+    background-color: #232536;
+    color: #D6D5D1;
+}
+
+.home {
+    background-color: #D6D5D1;
 }
 
 .title {
@@ -12,6 +29,20 @@
     vertical-align: middle;
 }
 
-.nav-color {
-    color: #303030;
+.nav-font {
+    color: #D6D5D1;
+}
+
+.padding-g {
+    padding-top: 6rem;
+    padding-bottom: 1rem;
+}
+
+.img-g {
+    width: 100%;
+}
+
+.btn-g {
+    background-color: #A6986C;
+    margin: .25rem;
 }
